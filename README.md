@@ -1,3 +1,5 @@
+If you don't already have paint.NET, get it at https://www.getpaint.net/download.html
+
 Download all files and run the installer. You should find the finished product available in paint.NET under Effects/Stylize/Random Dither. 
 
 But what is random dithering anyways? Imagine that you want to process an image so that each pixel is either black or white. One approach you may consider 
